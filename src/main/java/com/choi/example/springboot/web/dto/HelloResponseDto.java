@@ -1,6 +1,5 @@
 package com.choi.example.springboot.web.dto;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
