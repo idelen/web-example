@@ -55,5 +55,6 @@ public class PostsService {
         return postsRepository.findAllDesc().stream()
                 .map(PostsListResponseDto::new)
                 .collect(Collectors.toList());
+
     }
 }
